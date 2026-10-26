@@ -1,0 +1,13 @@
+# Dark theme for native Streamlit widgets. app.py adds the custom portal CSS on top.
+[theme]
+base = "dark"
+primaryColor = "#0a84ff"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#1d1d1f"
+textColor = "#f5f5f7"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
