@@ -1,0 +1,12 @@
+﻿# Environments and caches
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# Build artifacts
+permission-rag-api.zip
